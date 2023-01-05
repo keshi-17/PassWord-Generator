@@ -1,0 +1,57 @@
+body{
+    background-color: #82C3EC;
+}
+h1{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    padding-left: 400px;
+    padding-top: 75px;
+}
+p{
+    font-size: 1.5rem;
+    padding-left: 21.875rem;
+    padding-top: 1.563rem;
+}
+.label_1{
+         position: relative;
+         left: 350px;
+}
+.input_1{
+    position: relative;
+    top: 50px;
+}
+.label_2{
+    position: relative;
+    top: 100px;
+    left: -210px;
+}
+.input_2{
+    position: relative;
+    top: 150px;
+    left: -450px;
+}
+.label_3{
+    position: relative;
+    top: 200px;
+    left: -660px;
+}
+.input_3{
+    position: relative;
+    top: 250px;
+    left: -900px;
+}
+.btn{
+    position: relative;
+    top: 250px;
+    left: 350px;
+}
+.output{
+    position: relative;
+    top: 300px;
+
+}
+#password{
+    position: relative;
+    left: 300px;
+
+}
+
