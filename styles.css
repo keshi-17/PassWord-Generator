@@ -54,4 +54,66 @@ p{
     left: 300px;
 
 }
+@media only screen and (max-width: 768px){
+h1{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    padding-left: 0px;
+    position: relative;
+    left: 150px;
+
+    }
+p{
+    position: relative;
+    padding-left: 0px;
+    left: 150px;
+
+}
+.label_1{
+    
+    left: 100px;
+    position: relative;
+    font-size: 1.75rem;
+
+}
+.input_1{
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+.label_2{
+    position: relative;
+    left: 100px;
+    font-size: 1.75rem;
+    top: 75px;
+
+}
+.input_2{
+    position: relative;
+    left: 150px;
+    top: 90px;
+
+}
+.label_3{
+    position: relative;
+    left: 100px;
+    font-size: 1.75rem;.
+
+}
+.input_3{
+    position: relative;
+    left: 150px;
+    top: 220px;
+}
+.btn{
+    position: relative;
+    left: 0px;
+    top: 290px;
+}
+#password{
+    position: relative;
+    left: 200px;
+    font-size: 1.75rem;
+}
+}
+
 
